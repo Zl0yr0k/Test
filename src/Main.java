@@ -9,9 +9,7 @@ public class Main {
             for ( ; j < 3 ; j++ ) {
                 System.out.println(i + "" + j);
                 if (j==0) continue M1;
-                System.out.println("это первый коммит");
-                System.out.println("это второй коммит");
-                            }
+            }
 
         }
 
